@@ -1,8 +1,15 @@
-audioStartsAt("sp",0.5);
-audioStartsAt("door",2);
-audioStartsAt("chuoi",1.5);
-audioStartsAt("Mixi",180);
-audioStartsAt("Mixi2",320);
+audioStartsAt("VR",93);
+// audioStartsAt("DN",203);
+audioStartsAt("15",133);
+// audioStartsAt("NPC2",256);
+audioStartsAt("BH",11);
+audioStartsAt("4p18",258);
+
+
+
+
+
+
 
 
 
